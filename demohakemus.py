@@ -3,7 +3,7 @@ import json
 import re
 
 # Lataa profiili
-with open("profiili.json", "r", encoding="utf-8") as file:
+with open("demoprofiili.json", "r", encoding="utf-8") as file:
     profiili = json.load(file)
 
 st.title("Hakemuskirjeassistentti 🤖📄")
