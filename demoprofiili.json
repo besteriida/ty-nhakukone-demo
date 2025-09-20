@@ -1,0 +1,83 @@
+{
+  "nimi": "Demo Käyttäjä",
+  "sähköposti": "demo@example.com",
+  "puhelin": "040 123 4567",
+  "paikkakunta": "Helsinki, Suomi",
+  "tiivistelmä": "Monipuolinen ja oppimishaluinen osaaja, jolla on kokemusta sisällöntuotannosta, projektinhallinnasta ja teknisestä tuesta.",
+  "työhistoria": [
+    {
+      "työnimike": "Sisällöntuottaja",
+      "yritys": "Kuvitteellinen Media Oy",
+      "alkupvm": "2022-03",
+      "loppupvm": "2023-12",
+      "kuvaus": [
+        "Artikkelien ja oppimateriaalien kirjoittaminen",
+        "Sosiaalisen median sisällöntuotanto",
+        "Verkkosivujen päivittäminen ja ylläpito"
+      ],
+      "kuvaus_en": [
+        "Writing articles and educational materials",
+        "Creating content for social media",
+        "Updating and maintaining websites"
+      ]
+    },
+    {
+      "työnimike": "Projektikoordinaattori",
+      "yritys": "Virtuaalipalvelut Oy",
+      "alkupvm": "2021-01",
+      "loppupvm": "2022-02",
+      "kuvaus": [
+        "Projektien aikataulutus ja seuranta",
+        "Asiakasyhteyksien hoitaminen",
+        "Tiimin sisäinen viestintä ja dokumentointi"
+      ],
+      "kuvaus_en": [
+        "Scheduling and monitoring projects",
+        "Managing client communications",
+        "Internal team communication and documentation"
+      ]
+    }
+  ],
+  "koulutus": [
+    {
+      "tutkinto": "Medianomi (AMK)",
+      "oppilaitos": "Kuvitteellinen Ammattikorkeakoulu",
+      "valmistumisvuosi": 2020,
+      "kuvaus": "Opinnot painottuivat digitaaliseen viestintään ja verkkosisältöjen tuotantoon."
+    }
+  ],
+  "taidot": [
+    "Sisällöntuotanto",
+    "Projektinhallinta",
+    "Asiakaspalvelu",
+    "Sosiaalisen median hallinta",
+    "WordPress",
+    "Canva",
+    "Trello",
+    "Google Workspace",
+    "HTML (alkeet)",
+    "Python (alkeet)",
+    "Suomi (äidinkieli)",
+    "Englanti (erinomainen)"
+  ],
+  "taidot_en": [
+    "Content creation",
+    "Project management",
+    "Customer service",
+    "Social media management",
+    "WordPress",
+    "Canva",
+    "Trello",
+    "Google Workspace",
+    "HTML (basic)",
+    "Python (basic)",
+    "Finnish (native)",
+    "English (excellent)"
+  ],
+  "hauskat_faktat": [
+    "Rakastan lautapelejä ja järjestän peli-iltoja ystäville",
+    "Harrastan urbaania pyöräilyä ja etsin aina uusia reittejä",
+    "Olen intohimoinen kahviharrastaja – testaan uusia papuja ja keittotapoja",
+    "Jos tiimissä tarvitaan visailua, multa löytyy valmiita kysymyssarjoja ja peliformaatteja"
+  ]
+}
